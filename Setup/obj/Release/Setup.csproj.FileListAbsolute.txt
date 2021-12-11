@@ -1,0 +1,10 @@
+E:\source\repos\WeHateGlobalSettings\Setup\bin\Release\Setup.exe.config
+E:\source\repos\WeHateGlobalSettings\Setup\bin\Release\Setup.exe
+E:\source\repos\WeHateGlobalSettings\Setup\bin\Release\Setup.pdb
+E:\source\repos\WeHateGlobalSettings\Setup\obj\Release\Setup.csproj.CoreCompileInputs.cache
+E:\source\repos\WeHateGlobalSettings\Setup\obj\Release\Setup.exe
+E:\source\repos\WeHateGlobalSettings\Setup\obj\Release\Setup.pdb
+E:\source\repos\WeHateGlobalSettings\Release\Setup.exe.config
+E:\source\repos\WeHateGlobalSettings\Release\Setup.exe
+E:\source\repos\WeHateGlobalSettings\Release\Setup.pdb
+E:\source\repos\WeHateGlobalSettings\Setup\obj\Release\Setup.csprojAssemblyReference.cache
